@@ -1,1 +1,69 @@
+Road Accident Dashboard & Analysis
+📌 Project Overview
 
+This project is a data-driven dashboard and analysis tool built entirely in Microsoft Excel to visualize and analyze road accident data. The dashboard provides insights into accident trends, casualties, vehicle types involved, road conditions, and geographical distribution of incidents.
+
+The purpose of this project is to demonstrate skills in:
+
+Data Cleaning & Preparation
+
+Interactive Dashboard Creation in Excel
+
+Data Analysis & Visualization
+
+Business Intelligence and Storytelling with Data
+
+📊 Key Features
+
+Road Accident Dashboard
+
+Total, slight, serious, and fatal casualties.
+
+Casualties categorized by vehicle type, road surface, road map, location, and light condition.
+
+Year-over-Year monthly comparison trends.
+
+Interactive filter panels (Urban/Rural).
+
+Road Accident Analysis Report
+
+Total accidents, casualties, and fatalities with percentage changes.
+
+Breakdown by urban vs. rural areas.
+
+Casualties by road type (single, dual, motorway, slip road).
+
+Day vs. Night accident distribution.
+
+Geographic map visualization of accident locations.
+
+🛠 Tools & Skills Used
+
+Microsoft Excel
+
+Pivot Tables & Pivot Charts
+
+Power Query (for data cleaning & transformation)
+
+Conditional Formatting
+
+Slicers & Interactive Filters
+
+Advanced Formulas
+
+Data Visualization & Storytelling
+
+Exploratory Data Analysis (EDA)
+
+
+🚀 Insights from the Dashboard
+
+Cars account for the majority of accidents (~79%).
+
+Most casualties occur under slight injury category (~84%).
+
+Urban areas see higher accident numbers compared to rural.
+
+Night-time accidents are fewer but often more severe.
+
+Seasonal/monthly trends indicate fluctuations in accident frequency.
